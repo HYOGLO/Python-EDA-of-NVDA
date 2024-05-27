@@ -17,3 +17,21 @@ Skills Utilized:
 - Statistical Analysis
 - Data Visualization
 - Git version control
+
+Repository Structure:
+- `data/`: Directory containing sample stock data CSV files.
+- `src/:` Directory containing Python scripts for data analysis and visualization.
+    - `nvidia_stock_analysis.py:` Main script for conducting EDA on NVIDIA stock data.
+- `README.md:` Detailed instructions, project overview, and usage guide.
+- `LICENSE:` License information for the project.
+
+Usage:
+1) Clone the repository to your local machine.
+2) Navigate to the src/ directory.
+3) Run the nvidia_stock_analysis.py script to perform EDA on the NVIDIA stock data.
+
+Contributing:
+Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
